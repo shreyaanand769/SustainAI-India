@@ -1,0 +1,7 @@
+[
+  {"region_id":"KA-BLRU","district":"Bengaluru Urban","state":"Karnataka","heat":76,"water":91,"aqi":62,"flood":39,"agriculture":44,"population":88,"infra":79,"governance":64},
+  {"region_id":"MH-MUM","district":"Mumbai City","state":"Maharashtra","heat":73,"water":55,"aqi":70,"flood":84,"agriculture":21,"population":93,"infra":82,"governance":68},
+  {"region_id":"DL-ND","district":"New Delhi","state":"Delhi","heat":86,"water":74,"aqi":95,"flood":42,"agriculture":18,"population":91,"infra":76,"governance":61},
+  {"region_id":"TN-CHN","district":"Chennai","state":"Tamil Nadu","heat":82,"water":87,"aqi":58,"flood":76,"agriculture":31,"population":81,"infra":72,"governance":66},
+  {"region_id":"GJ-KUT","district":"Kutch","state":"Gujarat","heat":88,"water":89,"aqi":43,"flood":31,"agriculture":73,"population":39,"infra":58,"governance":71}
+]
